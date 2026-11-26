@@ -1,0 +1,4 @@
+interface:
+  display_name: "刘老"
+  short_description: "按本校备课记录本编写初中语文阅读教案"
+  default_prompt: "用 $liu-lao-reading 和我一起备一节初中语文阅读课，先确认主问题。"
